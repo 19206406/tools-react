@@ -1,0 +1,207 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "password": "password123"
+      },
+      {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "password": "securepass"
+      },
+      {
+        "id": 3,
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "michael.brown@example.com",
+        "password": "mypass"
+      },
+      {
+        "id": 4,
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "email": "emily.davis@example.com",
+        "password": "123456"
+      },
+      {
+        "id": 5,
+        "first_name": "Chris",
+        "last_name": "Wilson",
+        "email": "chris.wilson@example.com",
+        "password": "letmein"
+      },
+      {
+        "id": 6,
+        "first_name": "Jessica",
+        "last_name": "Martinez",
+        "email": "jessica.martinez@example.com",
+        "password": "passw0rd"
+      },
+      {
+        "id": 7,
+        "first_name": "David",
+        "last_name": "Anderson",
+        "email": "david.anderson@example.com",
+        "password": "qwerty"
+      },
+      {
+        "id": 8,
+        "first_name": "Laura",
+        "last_name": "Taylor",
+        "email": "laura.taylor@example.com",
+        "password": "abcd1234"
+      },
+      {
+        "id": 9,
+        "first_name": "James",
+        "last_name": "Moore",
+        "email": "james.moore@example.com",
+        "password": "password"
+      },
+      {
+        "id": 10,
+        "first_name": "Sophia",
+        "last_name": "White",
+        "email": "sophia.white@example.com",
+        "password": "hello123"
+      },
+      {
+        "id": 11,
+        "first_name": "Brian",
+        "last_name": "Harris",
+        "email": "brian.harris@example.com",
+        "password": "admin"
+      },
+      {
+        "id": 12,
+        "first_name": "Emma",
+        "last_name": "Clark",
+        "email": "emma.clark@example.com",
+        "password": "welcome"
+      },
+      {
+        "id": 13,
+        "first_name": "Daniel",
+        "last_name": "Lewis",
+        "email": "daniel.lewis@example.com",
+        "password": "password1"
+      },
+      {
+        "id": 14,
+        "first_name": "Olivia",
+        "last_name": "Lee",
+        "email": "olivia.lee@example.com",
+        "password": "pass123"
+      },
+      {
+        "id": 15,
+        "first_name": "Matthew",
+        "last_name": "Walker",
+        "email": "matthew.walker@example.com",
+        "password": "changeme"
+      },
+      {
+        "id": 16,
+        "first_name": "Ava",
+        "last_name": "Hall",
+        "email": "ava.hall@example.com",
+        "password": "mypassword"
+      },
+      {
+        "id": 17,
+        "first_name": "Ethan",
+        "last_name": "Allen",
+        "email": "ethan.allen@example.com",
+        "password": "test123"
+      },
+      {
+        "id": 18,
+        "first_name": "Mia",
+        "last_name": "Young",
+        "email": "mia.young@example.com",
+        "password": "secure123"
+      },
+      {
+        "id": 19,
+        "first_name": "Alexander",
+        "last_name": "King",
+        "email": "alex.king@example.com",
+        "password": "alexpass"
+      },
+      {
+        "id": 20,
+        "first_name": "Isabella",
+        "last_name": "Scott",
+        "email": "isabella.scott@example.com",
+        "password": "bella123"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999.99,
+        "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 699.99,
+        "category": "Electronics"
+      },
+      {
+        "id": 3,
+        "name": "Tablet",
+        "price": 499.99,
+        "category": "Electronics"
+      },
+      {
+        "id": 4,
+        "name": "Headphones",
+        "price": 199.99,
+        "category": "Accessories"
+      },
+      {
+        "id": 5,
+        "name": "Monitor",
+        "price": 299.99,
+        "category": "Electronics"
+      },
+      {
+        "id": 6,
+        "name": "Keyboard",
+        "price": 89.99,
+        "category": "Accessories"
+      },
+      {
+        "id": 7,
+        "name": "Mouse",
+        "price": 49.99,
+        "category": "Accessories"
+      },
+      {
+        "id": 8,
+        "name": "Smartwatch",
+        "price": 249.99,
+        "category": "Wearables"
+      },
+      {
+        "id": 9,
+        "name": "Gaming Console",
+        "price": 499.99,
+        "category": "Gaming"
+      },
+      {
+        "id": 10,
+        "name": "Camera",
+        "price": 599.99,
+        "category": "Photography"
+      }
+    ]
+  }
+  

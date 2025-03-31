@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|c:\\users\\urreg\\desktop\\.net web apis\\collagestudentsudea\\collagestudentsudea\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|solutionrelative:collagestudentsudea\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|c:\\users\\urreg\\desktop\\.net web apis\\collagestudentsudea\\collagestudentsudea\\models\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|solutionrelative:collagestudentsudea\\models\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|c:\\users\\urreg\\desktop\\.net web apis\\collagestudentsudea\\collagestudentsudea\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33271067-6EDD-4748-B409-9825311B0336}|CollageStudentsUdea\\CollageStudentsUdea.csproj|solutionrelative:collagestudentsudea\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CollageStudentsUdea\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CollageStudentsUdea\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:13:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CollageStudentsUdea\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Models\\Student.cs",
+              "RelativeToolTip": "CollageStudentsUdea\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:16:09.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollegeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Models\\CollegeRepository.cs",
+              "RelativeDocumentMoniker": "CollageStudentsUdea\\Models\\CollegeRepository.cs",
+              "ToolTip": "C:\\Users\\urreg\\Desktop\\.net web APIs\\CollageStudentsUdea\\CollageStudentsUdea\\Models\\CollegeRepository.cs",
+              "RelativeToolTip": "CollageStudentsUdea\\Models\\CollegeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T00:21:22.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
